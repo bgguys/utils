@@ -1,0 +1,19 @@
+{
+  "name": "bgutils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgguys/utils.git"
+  },
+  "author": "ElegantXu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgguys/utils/issues"
+  },
+  "homepage": "https://github.com/bgguys/utils#readme"
+}
